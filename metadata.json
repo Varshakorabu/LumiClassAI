@@ -1,0 +1,6 @@
+{
+  "name": "LumiClass AI - Smart Timetable & Notification Companion",
+  "description": "AI-powered timetable document understanding, OCR extraction, natural-language schedule assistant Lumi, conflict detection, and smart 5-minute class notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
